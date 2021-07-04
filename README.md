@@ -1,5 +1,5 @@
-# Hola mundo! 👽
-Este es mi repositorio personal de Github
+# Hello World! 👽
+This is my personal Github repository
 
 <!--
 **nafuent/nafuent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
