@@ -8,7 +8,7 @@ This is my personal Github repository
 
 - 🔭 I’m currently working with MS SQL Server
 - 🌱 I’m currently learning Javascript and REACT
-
+- Also Learning... Python 🐍
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
