@@ -18,5 +18,5 @@ This is my personal Github repository
 - ⚡ Fun fact: ...
 -->
 
-Visit my [portfolio](https://nafuent.github.io/ "DEMO") :)
+Visit my [portfolio](https://nafuent.github.io/ "DEMO"){:target="_blank" rel="noopener"} :)
 
